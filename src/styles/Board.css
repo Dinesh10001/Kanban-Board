@@ -1,0 +1,10 @@
+
+  
+  .board {
+    display: flex;
+    /* justify-content: left; */ /* Remove this line to default to left alignment */
+    width: 100%; /* Use 100% to make it span the entire viewport width */
+    max-width: 80%;
+    /* margin: 0 auto; */
+  }
+  
