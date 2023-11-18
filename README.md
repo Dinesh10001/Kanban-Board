@@ -46,6 +46,3 @@ Additionally, the application saves the user's view state even after page is rel
 - Hover Effect on User Badge to show User Info.
 - Hover Effect on Priority Tag to show the Priority of ticket.
 
-**Upcoming Feature**:
-
-- Dark Mode
